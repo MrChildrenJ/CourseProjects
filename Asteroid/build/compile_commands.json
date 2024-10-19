@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/jjhuang/Project/CS6010_FinalProject/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/jjhuang/Project/CS6010_FinalProject/include -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/asteroids.dir/src/asteroid.cpp.o -c /Users/jjhuang/Project/CS6010_FinalProject/src/asteroid.cpp",
+  "file": "/Users/jjhuang/Project/CS6010_FinalProject/src/asteroid.cpp",
+  "output": "CMakeFiles/asteroids.dir/src/asteroid.cpp.o"
+},
+{
+  "directory": "/Users/jjhuang/Project/CS6010_FinalProject/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/jjhuang/Project/CS6010_FinalProject/include -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/asteroids.dir/src/game.cpp.o -c /Users/jjhuang/Project/CS6010_FinalProject/src/game.cpp",
+  "file": "/Users/jjhuang/Project/CS6010_FinalProject/src/game.cpp",
+  "output": "CMakeFiles/asteroids.dir/src/game.cpp.o"
+},
+{
+  "directory": "/Users/jjhuang/Project/CS6010_FinalProject/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/jjhuang/Project/CS6010_FinalProject/include -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/asteroids.dir/src/laser.cpp.o -c /Users/jjhuang/Project/CS6010_FinalProject/src/laser.cpp",
+  "file": "/Users/jjhuang/Project/CS6010_FinalProject/src/laser.cpp",
+  "output": "CMakeFiles/asteroids.dir/src/laser.cpp.o"
+},
+{
+  "directory": "/Users/jjhuang/Project/CS6010_FinalProject/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/jjhuang/Project/CS6010_FinalProject/include -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/asteroids.dir/src/main.cpp.o -c /Users/jjhuang/Project/CS6010_FinalProject/src/main.cpp",
+  "file": "/Users/jjhuang/Project/CS6010_FinalProject/src/main.cpp",
+  "output": "CMakeFiles/asteroids.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/jjhuang/Project/CS6010_FinalProject/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/jjhuang/Project/CS6010_FinalProject/include -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/asteroids.dir/src/ship.cpp.o -c /Users/jjhuang/Project/CS6010_FinalProject/src/ship.cpp",
+  "file": "/Users/jjhuang/Project/CS6010_FinalProject/src/ship.cpp",
+  "output": "CMakeFiles/asteroids.dir/src/ship.cpp.o"
+},
+{
+  "directory": "/Users/jjhuang/Project/CS6010_FinalProject/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/jjhuang/Project/CS6010_FinalProject/include -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/asteroids.dir/src/window.cpp.o -c /Users/jjhuang/Project/CS6010_FinalProject/src/window.cpp",
+  "file": "/Users/jjhuang/Project/CS6010_FinalProject/src/window.cpp",
+  "output": "CMakeFiles/asteroids.dir/src/window.cpp.o"
+}
+]

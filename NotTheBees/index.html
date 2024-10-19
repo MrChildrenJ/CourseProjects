@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NotTheBee</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <canvas id="mycanvas"></canvas>
+    <div id="asteroid-dialog">
+      <div class="dialog-content">
+        <h2>Choose number of asteroids:</h2>
+        <button onclick="setAsteroids(5)">5</button>
+        <button onclick="setAsteroids(10)">10</button>
+        <button onclick="setAsteroids(15)">15</button>
+        <div>
+          <input type="number" id="custom-number" min="1" max="100" />
+          <button onclick="setCustomAsteroids()">Set Custom</button>
+        </div>
+      </div>
+    </div>
+    <script src="./app.js"></script>
+  </body>
+</html>
