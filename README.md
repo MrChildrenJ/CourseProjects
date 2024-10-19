@@ -1,2 +1,2 @@
 # CourseProjects
-Projects I have completed in class.
+Projects I have completed in classes.
