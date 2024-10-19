@@ -54,10 +54,10 @@ RM = /opt/homebrew/Cellar/cmake/3.30.3/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jjhuang/Project/CS6010_FinalProject
+CMAKE_SOURCE_DIR = /Users/jjhuang/Projects/CourseProjects/Asteroid
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jjhuang/Project/CS6010_FinalProject/build
+CMAKE_BINARY_DIR = /Users/jjhuang/Projects/CourseProjects/Asteroid/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/asteroids.dir/clean
 CMakeFiles/asteroids.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/asteroids.dir/build.make CMakeFiles/asteroids.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/asteroids.dir/build.make CMakeFiles/asteroids.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/jjhuang/Project/CS6010_FinalProject/build/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target asteroids"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/jjhuang/Projects/CourseProjects/Asteroid/build/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target asteroids"
 .PHONY : CMakeFiles/asteroids.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/asteroids.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jjhuang/Project/CS6010_FinalProject/build/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jjhuang/Projects/CourseProjects/Asteroid/build/CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/asteroids.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jjhuang/Project/CS6010_FinalProject/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jjhuang/Projects/CourseProjects/Asteroid/build/CMakeFiles 0
 .PHONY : CMakeFiles/asteroids.dir/rule
 
 # Convenience name for target.

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/jjhuang/Project/CS6010_FinalProject/bin/asteroids"
-  "/Users/jjhuang/Project/CS6010_FinalProject/bin/asteroids.pdb"
+  "/Users/jjhuang/Projects/CourseProjects/Asteroid/bin/asteroids"
+  "/Users/jjhuang/Projects/CourseProjects/Asteroid/bin/asteroids.pdb"
   "CMakeFiles/asteroids.dir/src/asteroid.cpp.o"
   "CMakeFiles/asteroids.dir/src/asteroid.cpp.o.d"
   "CMakeFiles/asteroids.dir/src/game.cpp.o"
