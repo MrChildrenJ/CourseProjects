@@ -1,4 +1,4 @@
-<img width="1072" alt="Screenshot 2024-10-06 at 15 02 43" src="https://github.com/user-attachments/assets/b27a5a2a-32f9-4cd2-b5dd-ad088a0caaa5">
+<img width="1072" alt="Screenshot 2024-10-18 at 19 11 33" src="https://github.com/user-attachments/assets/13324751-cbf6-4b93-ac86-2205aa51dd2b">
 
 A simple GUI synthesizer that can generate sine waves, square waves, white noise, or connect a sine wave with a linear ramp to produce a variable frequency sine wave. The project also includes other components such as volume control, reverb, and a mixer.
 
