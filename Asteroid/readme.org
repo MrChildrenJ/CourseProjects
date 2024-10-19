@@ -1,5 +1,4 @@
-#+ATTR_ORG: :width 912
-[[https://github.com/user-attachments/assets/f777a641-9b93-4e68-8245-9f67dcb7121f]]
+[[https://github.com/user-attachments/assets/f777a641-9b93-4e68-8245-9f67dcb7121f][Screenshot 2024-10-18 at 19 22 23]]
 
 * MSD Fall 2024, CS6010
 This is the final project repository for Owen Brown and JJ Huang.
